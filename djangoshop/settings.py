@@ -26,7 +26,7 @@ SECRET_KEY ='^+$kuy6ppwzufx_m1xf*$v70=xts@emnx5_*ys=g8fy_6hg%g$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 # DEBUG = bool( os.environ.get('DJANGO_DEBUG', False) )
-ALLOWED_HOSTS = ['seyzar.pythonanywhere.com','127.0.0.1']
+ALLOWED_HOSTS = ['Mykurs.pythonanywhere.com','127.0.0.1']
 
 # Application definition
 
