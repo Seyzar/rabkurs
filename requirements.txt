@@ -16,7 +16,7 @@ jsonfield==2.0.2
 MarkupSafe==1.1.1
 monotonic==1.5
 notifications-python-client==5.4.1
-numpy==1.17.4
+numpy==1.22.0
 Pillow==6.2.1
 pipupgrade==1.5.2
 plotly==4.3.0
